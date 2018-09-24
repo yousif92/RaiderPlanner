@@ -136,4 +136,22 @@ public class Event extends VersionControlEntity {
 	public void open(Window current) {
 		// TODO Auto-generated method stub
 	}
+
+	/**
+	 * @return
+	 */
+	public Object getSummary() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/**
+	 * @return
+	 */
+	public Object getStart() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
 }
