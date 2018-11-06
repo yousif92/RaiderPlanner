@@ -17,6 +17,8 @@ code.jpg â€“ screen shot of RaiderPlanner source code, taken by James Langu
 legal.jpg â€“ image creator unknown, retrieved from http://www.pageinc.org/?06 
  
 download.png - Kliponius, https://openclipart.org/detail/201887/download-button-green 
+
+new.png by Yousif sobhi
  
 # Bootstrap copyright and licenes  
 Copyright (c) 2011-2018 Twitter, Inc. 
@@ -28,7 +30,19 @@ https://github.com/twbs/bootstrap/blob/master/LICENSE
 # Images from unsplach
 All other images are taken from unsplach.
 
-https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/Help.jpg
+help.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/Help.jpg
+
+home.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/home-bg.jpg
+
+1.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/1.jpg
+
+2.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/2.jpg
+
+3.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/3.jpg
+
+4.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/4.jpg
+
+
 
 
 
