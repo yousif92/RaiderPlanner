@@ -28,6 +28,7 @@ https://github.com/twbs/bootstrap/blob/master/LICENSE
 # Images from unsplach
 All other images are taken from unsplach.
 
+https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/Help.jpg
 
 
 
