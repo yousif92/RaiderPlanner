@@ -28,7 +28,9 @@ Copyright (c) 2011-2018 The Bootstrap Authors
 https://github.com/twbs/bootstrap/blob/master/LICENSE
 
 # Images from unsplach
-All other images are taken from unsplach.
+All other images are taken from the open source unsplach.
+
+unsplash License Link: https://unsplash.com/license
 
 help.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/Help.jpg
 
@@ -36,13 +38,13 @@ home.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/
 
 1.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/1.jpg
 
-2.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/2.jpg
+2.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/2.jpg
 
-3.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/3.jpg
+3.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/3.jpg
 
-4.png https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/4.jpg
+4.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/4.jpg
 
-
+map-iamge.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/map-image.png
 
 
 
