@@ -1,6 +1,6 @@
 # PHOTO CREDITS AND COPYRIGHTS:
 index.html: 
-calendar.png - ICONSHOP, https://freeiconshop.com/icon/calendar-icon-outline-filled/ 
+calendar.png - ICONSHOP, https://freeiconshop.com/icon/calendar-icon-outline-filled/
 reminder.png - Incenticon, http://www.myiconfinder.com/icon/timer-alarm-bell-business-clockcounter-event-history-hour-minute-plan-reminder-schedule-stopwatch-time-time-management-timertiming-wait-lap-lap-time-waiting-watch-history/936 
 gantt.png - ConceptDraw, http://www.conceptdraw.com/examples/icon-project-management 
  
