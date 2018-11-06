@@ -13,5 +13,15 @@ legal.jpg â€“ image creator unknown, retrieved from http://www.pageinc.org/
  
 download.png - Kliponius, https://openclipart.org/detail/201887/download-button-green 
  
+# Bootstrap copyright and licenes  
 Copyright (c) 2011-2018 Twitter, Inc. 
 Copyright (c) 2011-2018 The Bootstrap Authors 
+https://github.com/twbs/bootstrap/blob/master/LICENSE
+
+# Images from unsplach
+All other images are taken from unsplach.
+
+
+
+
+
