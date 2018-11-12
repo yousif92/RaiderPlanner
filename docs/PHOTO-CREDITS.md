@@ -45,5 +45,6 @@ home.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/
 4.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/4.jpg
 
 map-iamge.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/map-image.png
+
 help.jpg, https://github.com/yousif92/RaiderPlanner/blob/RaiderPlanner2/docs/assets/img/Help.jpg
 
