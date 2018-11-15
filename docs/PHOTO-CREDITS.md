@@ -1,3 +1,4 @@
+
 # PHOTO CREDITS AND COPYRIGHTS:
 index.html: 
 calendar.png - ICONSHOP, https://freeiconshop.com/icon/calendar-icon-outline-filled/
@@ -19,6 +20,8 @@ legal.jpg â€“ image creator unknown, retrieved from http://www.pageinc.org/
 download.png - Kliponius, https://openclipart.org/detail/201887/download-button-green 
 
 new.png by Yousif sobhi
+
+help.png - image creator unknown, retrieved from http://www.kellerbenefit.com/help-support-advice-guidance-signpost/
  
 # Bootstrap copyright and licenes  
 Copyright (c) 2011-2018 Twitter, Inc. 
@@ -32,19 +35,12 @@ All other images are taken from the open source unsplach.
 
 unsplash License Link: https://unsplash.com/license
 
-help.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/Help.jpg
+home.png, https://unsplash.com/photos/pUAM5hPaCRI
 
-home.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/home-bg.jpg
+1.png, https://unsplash.com/photos/1GepXKtYUK8
 
-1.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/1.jpg
+2.png,https://unsplash.com/photos/Gauk-pFdvKk
 
-2.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/2.jpg
+3.png, https://unsplash.com/photos/PjH_BkzjxTA
 
-3.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/3.jpg
-
-4.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/about/4.jpg
-
-map-iamge.png, https://github.com/yousif92/RaiderPlanner/blob/master/docs/assets/img/map-image.png
-
-help.jpg, https://github.com/yousif92/RaiderPlanner/blob/RaiderPlanner2/docs/assets/img/Help.jpg
-
+4.png, https://unsplash.com/photos/phIFdC6lA4E
